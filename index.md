@@ -7,3 +7,14 @@
 ``` javascript
 let myMessage = 'I am using markdown'
 ```
+
+- [ ] This is the first checkbox
+- [ ] This is another one
+- [ ] Create a repository
+- [ ] Create a pull request for the start-markdown branch
+- [ ] Add some headers to the indeex.md file
+- [ ] add an image to the index.md file
+- [ ] add a code snippet to the index.md file
+- [ ] add a list to the index.md file
+- [ ] continue
+
